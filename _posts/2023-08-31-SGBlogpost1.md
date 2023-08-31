@@ -1,5 +1,6 @@
 ---
 title: "SG-TITLE1"
-date: 2023-08-31 07:08:02 -0000
+date: 2023-08-31
 ---
-sometihng1
+
+some thing 1
