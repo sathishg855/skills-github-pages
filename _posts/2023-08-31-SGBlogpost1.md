@@ -1,4 +1,6 @@
-layout: post
-title: "POST-TITLE1"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+---
+title: "SG-TITLE1"
+date: 2023-08-31
+---
+
+some thing 1
